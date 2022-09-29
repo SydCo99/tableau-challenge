@@ -1,11 +1,11 @@
 # tableau-challenge
 NU Data Science Bootcamp Tableau Homework 
 
-The visualizations created can be previewed by opening the Tableau-Challenge file or by visiting https://public.tableau.com/app/profile/sydney.m.cohen/viz/Tableau-Challenge_16626783442270/Story
+The visualizations created can be previewed by opening the Tableau-Challenge file or by visiting [this link](https://public.tableau.com/app/profile/sydney.m.cohen/viz/Tableau-Challenge_16626783442270/Story).
 
 
 ## Analysis 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg =100x20)
+<img src="Images/citi-bike-station-bikes.jpg" height="400" width="400">
 
 ### Most Popular Start Stations
 ![Start-Stations](Images/station_pop.png)
@@ -22,7 +22,7 @@ The map on the left illustrates the start bike stations from 7/2019 with the siz
 
 The pie chart on the left indicates the proportion of subscribers to customers in June 2019, with the pie chart on the left depicting the same phenomenon but in June 2022. There was a name change in the way the company categorized yearly subscribers versus single-time customers, so for clarity be aware that "subscriber" and "member" both refer to yearly subscribers, and "casual" and "customer" both refer to single-time customers. While the 2019 data is overwhelmingly dominated by subscribers, the 2022 data has a smaller proportion, and more casual users. These proportions must be contextualized with the growth of the business as a whole, even though the subscriber proportion went down over the years, the actual number of subscribers almost doubled. The bar chart just below illustrates how large the rider-ship has grown for this company, and gives context to the shifting proportions seen on the pie charts. 
 
-![total-ridership](Images/total_rides_bar.jpg)
+<img src="Images/total_rides_bar.jpg" height="400" width="300">
 
 ### Rides by the Hour 
 ![hourly-rides](Images/hourly_rides_line.jpg)
@@ -34,8 +34,7 @@ The graphs above illustrate the number of rides that occured per hour on a 24-ho
 
 These visualizations were made using only the 2022 dataset, as the 2019 dataset either didn't have this feature of different ride types implemented or data simply wasn't collected on it. The stacked bar chart above illustrates the breakdown of ride type (classic, electric, or docked) per station, data which could be used to more efficiently stock these locations. Though the classic bike dominates most of the bars, there are some stations with a significant proportion of electric bike usage that perhaps may need more bikes stocked. The electric bikes appear to take up a larger share of the proportion for smaller, less popular stations, perhaps indicating that when more electric bikes are available people will use them, or perhaps that the electric bikes are better suited for that area. This is an area worthy of further investigation. What we can see from the simple bar chart below is that overall classic bikes are by far the most popular, with electric bikes experiences a considerable amount of use but still signiicantly less than the classic bikes. Docked bikes are the lowest type used, by a large amount. 
 
-![type-bar-overall](Images/ride_type_counts.jpg)
-
+<img src="Images/ride_type_counts.jpg" height="400" width="550">
 
 
 
