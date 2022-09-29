@@ -5,7 +5,7 @@ The visualizations created can be previewed by opening the Tableau-Challenge fil
 
 
 ## Analysis 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+![Citi-Bikes](Images/citi-bike-station-bikes.jpg =100x20)
 
 ### Most Popular Start Stations
 ![Start-Stations](Images/station_pop.png)
